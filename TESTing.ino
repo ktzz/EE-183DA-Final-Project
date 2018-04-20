@@ -38,7 +38,7 @@ void loop() {
  delay(250);
  // testing motor forward
  analogWrite(M1B,0);
- analogWrite(M1F,75);
+ analogWrite(M1F,50);
  analogWrite(M2B,0);
- analogWrite(M2F,75);
+ analogWrite(M2F,50);
 }
